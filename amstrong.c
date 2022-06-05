@@ -16,7 +16,5 @@ if(n==sum){
 else{
     printf("not amstrong number");
 }
-
-
-    return 0;
+ return 0;
 }
