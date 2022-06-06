@@ -14,8 +14,5 @@ if(count==2){
 else{
     printf("not prime number");
 }
-
-
-
-    return 0;
+  return 0;
 }
